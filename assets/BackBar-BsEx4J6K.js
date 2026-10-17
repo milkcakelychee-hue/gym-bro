@@ -1,0 +1,1 @@
+import{u as c,j as s,I as i,P as o}from"./index-DyCwysp2.js";function t({title:a,fallback:e="/"}){const n=c();return s.jsxs("div",{className:"row",children:[s.jsx("button",{className:"icon-btn","aria-label":"กลับ",onClick:()=>history.length>1?n(-1):n(e),children:s.jsx(i,{d:o.back,size:20})}),a&&s.jsx("h1",{className:"b",style:{fontSize:22},children:a})]})}export{t as B};
